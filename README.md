@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the Ruby on Rails and Django frameworks!
 - 💞️ I’m looking to collaborate on anything! I'm always interested in challenging myself and learning something new.
 - 📫 How to reach me ...
+- mattyerkes@gmail.com
 
 <!---
 myerkes/myerkes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
