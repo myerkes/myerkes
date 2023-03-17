@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @myerkes Matt Yerkes.
-- mattyerkes@gmail.com
+- mattyerkesdev@gmail.com
 
 <!---
 myerkes/myerkes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
