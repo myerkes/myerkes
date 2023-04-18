@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @myerkes Matt Yerkes.
+- 👋 Hi, I’m Matt
 - mattyerkesdev@gmail.com
 
-<!---
-myerkes/myerkes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/matthewyerkes)
+
+### languages
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Nix](https://img.shields.io/badge/-Nix-black?style=flat-square&logo=nixos)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
