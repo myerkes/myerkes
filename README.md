@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Matt
-- mattyerkesdev@gmail.com
+## Hello there!
+
+Hi, I'm Matt Yerkes.
+Welcome to my profile!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/matthewyerkes)
+
+
 
 ### languages
 
